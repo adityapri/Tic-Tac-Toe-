@@ -1,5 +1,5 @@
 
-let music = new Audio("music.mp3");
+
 let gameOverAudio = new Audio("Game Over.mp3");
 let turnChange = new Audio("Ting2.mp3");
 
